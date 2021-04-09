@@ -8,7 +8,7 @@ const MobileNav = () => {
     <Container>
       <Spacer />
       <NavWrapper>
-        <NavLink to="/portfolio-create-react-app">
+        <NavLink to="/">
           <NavButton
             hasIconOnly
             renderIcon={User32}
@@ -16,7 +16,7 @@ const MobileNav = () => {
             tooltipPosition="bottom"
           />
         </NavLink>
-        <NavLink to="/portfolio-create-react-app/projects">
+        <NavLink to="/projects">
           <NavButton
             hasIconOnly
             renderIcon={Code32}
@@ -24,7 +24,7 @@ const MobileNav = () => {
             tooltipPosition="bottom"
           />
         </NavLink>
-        <NavLink to="/portfolio-create-react-app/work">
+        <NavLink to="/work">
           <NavButton
             hasIconOnly
             renderIcon={Portfolio32}
@@ -32,7 +32,7 @@ const MobileNav = () => {
             tooltipPosition="bottom"
           />
         </NavLink>
-        <NavLink to="/portfolio-create-react-app/education">
+        <NavLink to="/education">
           <NavButton
             hasIconOnly
             renderIcon={Education32}
