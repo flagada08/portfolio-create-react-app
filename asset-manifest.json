@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/terencepersin.com/static/css/main.45c44235.chunk.css",
-    "main.js": "/terencepersin.com/static/js/main.d2b55d8a.chunk.js",
-    "main.js.map": "/terencepersin.com/static/js/main.d2b55d8a.chunk.js.map",
+    "main.js": "/terencepersin.com/static/js/main.c4ee6c30.chunk.js",
+    "main.js.map": "/terencepersin.com/static/js/main.c4ee6c30.chunk.js.map",
     "runtime-main.js": "/terencepersin.com/static/js/runtime-main.5004dce9.js",
     "runtime-main.js.map": "/terencepersin.com/static/js/runtime-main.5004dce9.js.map",
     "static/js/2.25a96d22.chunk.js": "/terencepersin.com/static/js/2.25a96d22.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5004dce9.js",
     "static/js/2.25a96d22.chunk.js",
     "static/css/main.45c44235.chunk.css",
-    "static/js/main.d2b55d8a.chunk.js"
+    "static/js/main.c4ee6c30.chunk.js"
   ]
 }
