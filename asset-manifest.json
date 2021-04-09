@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/terencepersin.com/static/css/main.45c44235.chunk.css",
+    "main.js": "/terencepersin.com/static/js/main.7ab42e2e.chunk.js",
+    "main.js.map": "/terencepersin.com/static/js/main.7ab42e2e.chunk.js.map",
+    "runtime-main.js": "/terencepersin.com/static/js/runtime-main.5004dce9.js",
+    "runtime-main.js.map": "/terencepersin.com/static/js/runtime-main.5004dce9.js.map",
+    "static/js/2.25a96d22.chunk.js": "/terencepersin.com/static/js/2.25a96d22.chunk.js",
+    "static/js/2.25a96d22.chunk.js.map": "/terencepersin.com/static/js/2.25a96d22.chunk.js.map",
+    "static/js/3.bbbee7e0.chunk.js": "/terencepersin.com/static/js/3.bbbee7e0.chunk.js",
+    "static/js/3.bbbee7e0.chunk.js.map": "/terencepersin.com/static/js/3.bbbee7e0.chunk.js.map",
+    "index.html": "/terencepersin.com/index.html",
+    "static/css/main.45c44235.chunk.css.map": "/terencepersin.com/static/css/main.45c44235.chunk.css.map",
+    "static/js/2.25a96d22.chunk.js.LICENSE.txt": "/terencepersin.com/static/js/2.25a96d22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5004dce9.js",
+    "static/js/2.25a96d22.chunk.js",
+    "static/css/main.45c44235.chunk.css",
+    "static/js/main.7ab42e2e.chunk.js"
+  ]
+}
