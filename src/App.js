@@ -20,10 +20,10 @@ function App() {
   }
 
   if (error) { 
-    return <p>{error.message}</p>;
+    return <Pages user={user} />;
   }
 
-  return <Pages user={user} />
+  return <Pages user={user} />;
 }
 
 export default App;
