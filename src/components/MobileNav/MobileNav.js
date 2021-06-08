@@ -8,7 +8,7 @@ const MobileNav = () => {
     <Container>
       <Spacer />
       <NavWrapper>
-        <NavLink to="/terencepersin.com">
+        <NavLink to="/terencepersin">
           <NavButton
             hasIconOnly
             renderIcon={User32}
@@ -16,7 +16,7 @@ const MobileNav = () => {
             tooltipPosition="bottom"
           />
         </NavLink>
-        <NavLink to="/terencepersin.com/projects">
+        <NavLink to="/terencepersin/projects">
           <NavButton
             hasIconOnly
             renderIcon={Code32}
@@ -24,7 +24,7 @@ const MobileNav = () => {
             tooltipPosition="bottom"
           />
         </NavLink>
-        <NavLink to="/terencepersin.com/work">
+        <NavLink to="/terencepersin/work">
           <NavButton
             hasIconOnly
             renderIcon={Portfolio32}
@@ -32,7 +32,7 @@ const MobileNav = () => {
             tooltipPosition="bottom"
           />
         </NavLink>
-        <NavLink to="/terencepersin.com/education">
+        <NavLink to="/terencepersin/education">
           <NavButton
             hasIconOnly
             renderIcon={Education32}

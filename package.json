@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://flagada08.github.io/terencepersin.com",
+  "homepage": "https://flagada08.github.io/terencepersin",
   "dependencies": {
     "@carbon/icons-react": "^10.29.0",
     "@carbon/themes": "^10.31.0",
